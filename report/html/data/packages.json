@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts.test_search",
+    "children" : [ {
+      "name" : "test_search[search_test_001-你好]",
+      "uid" : "92e81ecbd523d441",
+      "parentUid" : "d364b3e207ba3cd3470212f14c36e7b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568648586433,
+        "stop" : 1568648591014,
+        "duration" : 4581
+      },
+      "flaky" : false,
+      "parameters" : [ "'你好'", "'search_test_001'" ]
+    }, {
+      "name" : "test_search[search_test_002-你好hello]",
+      "uid" : "6e9fcd72eae4cca1",
+      "parentUid" : "d364b3e207ba3cd3470212f14c36e7b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568648604857,
+        "stop" : 1568648609334,
+        "duration" : 4477
+      },
+      "flaky" : false,
+      "parameters" : [ "'你好hello'", "'search_test_002'" ]
+    } ],
+    "uid" : "scripts.test_search"
+  } ]
+}
