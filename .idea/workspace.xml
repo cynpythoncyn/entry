@@ -1,82 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05fd7aaf-2864-4a4b-85fd-d784f7abe16d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/other_py/geckodriver.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/other_py/hello.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/other_py/test_settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/other_py/web_selenium.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/00124abb-d414-46c4-bedf-bcedfd67ba93-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/032073f3-c6ea-4aed-8fc8-a48d6395d2eb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/15ef6315-88ce-42dc-b863-37ffbbd789a1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/1f6350ea-6794-4e57-9efc-d552b4bf3d32-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/265c845e-c417-4924-accd-f54dad702d30-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/2da0d86e-7e2c-4415-a4f7-11302bf6c321-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/309fb92b-08ec-464f-bffb-e20083f90d47-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/30c67a70-e12c-4bd2-9558-06b661beeb8e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/3c99e80f-a790-4300-a9de-043cd7db6955-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/3d862291-c475-4f4e-a86c-4943c8fe70db-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/4115866c-07b5-4fda-ac0b-ea2c5e9240cc-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/4864b3a7-a30b-4edc-a741-46e7882a7d24-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/58e4b24a-08d5-4bc6-9ade-6fd2fe9cd7eb-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/7361c4a5-8abd-4149-aad5-de1249ecbfd3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/73fcf4e0-27d3-4282-983f-793a9cb99032-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/763cf59d-198b-4ab0-b11e-176d8881ebaa-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/77ff8905-a9d8-4455-ae98-36703af409ec-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/8ef9ba9b-874c-4f97-b728-ddb5442ed87d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/8fe80f88-b35e-4c10-8049-22fff2852b2e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/96057261-ba97-4271-b367-f2383decf003-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/9d5148ab-4a1d-47e6-9a16-c57799cf47a3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/a7cd1e68-ac88-4942-ad25-b83adf713cce-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/b0379b38-64eb-4e72-b699-24078c7dd25e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/c4c5368c-108e-4a70-ad29-e7841c7dd858-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/d34495a8-17c5-45d4-babf-2eddcd032101-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/d82ee7d1-9261-40e7-99cc-dca6f2e996b5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/dd9acf86-7cd3-4fa1-b0fb-ab88802954e7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/e3093f81-7a47-4ceb-b559-c414b0b6bd00-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/fd92c383-9f99-4862-844d-d36c27cc61ed-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/ff9aaf55-f1a5-4e26-bcc6-d7a7b43b8ccb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/6e9fcd72eae4cca1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/92e81ecbd523d441.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/summary.json" beforeDir="false" />
-    </list>
+    <list default="true" id="05fd7aaf-2864-4a4b-85fd-d784f7abe16d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/pytest.ini">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="31" />
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -173,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -367,7 +292,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21018593" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21018593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -381,7 +306,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.6483126" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.6483126" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -557,14 +482,14 @@
     <entry file="file://$PROJECT_DIR$/pytest.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="31" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
