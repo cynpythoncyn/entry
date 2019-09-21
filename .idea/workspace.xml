@@ -33,17 +33,20 @@
           <entry key="html" value="3" />
           <entry key="ini" value="6" />
           <entry key="log" value="1" />
+          <entry key="md" value="1" />
           <entry key="py" value="92" />
           <entry key="yaml" value="4" />
+          <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
           <entry key="Ini" value="6" />
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="92" />
-          <entry key="YAML" value="4" />
+          <entry key="YAML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -64,17 +67,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base/base_action.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="572">
               <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
               <folding>
-                <marker date="1568639045137" expanded="true" signature="207:213" ph="..." />
-                <marker date="1568639045137" expanded="true" signature="316:644" ph="..." />
-                <marker date="1568639045137" expanded="true" signature="501:644" ph="..." />
-                <marker date="1568639045137" expanded="true" signature="664:709" ph="..." />
+                <marker date="1569051010698" expanded="true" signature="207:213" ph="..." />
+                <marker date="1569051010698" expanded="true" signature="316:644" ph="..." />
+                <marker date="1569051010698" expanded="true" signature="501:644" ph="..." />
+                <marker date="1569051010698" expanded="true" signature="664:709" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -87,6 +105,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -116,11 +137,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-30" />
     <option name="width" value="1947" />
     <option name="height" value="1095" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -133,26 +155,6 @@
             <path>
               <item name="learn_appium" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn_appium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn_appium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn_appium" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn_appium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn_appium" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn_appium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn_appium" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn_appium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn_appium" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -413,8 +415,8 @@
         <state relative-caret-position="616">
           <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
           <folding>
-            <marker date="1568728039688" expanded="true" signature="34:40" ph="..." />
-            <marker date="1568728039688" expanded="true" signature="69:78" ph="..." />
+            <marker date="1569051010702" expanded="true" signature="34:40" ph="..." />
+            <marker date="1569051010702" expanded="true" signature="69:78" ph="..." />
           </folding>
         </state>
       </provider>
@@ -424,7 +426,7 @@
         <state relative-caret-position="44">
           <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
           <folding>
-            <marker date="1567955745710" expanded="true" signature="48:49" ph="..." />
+            <marker date="1569051010700" expanded="true" signature="48:49" ph="..." />
           </folding>
         </state>
       </provider>
@@ -435,9 +437,9 @@
           <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
-            <marker date="1568645439583" expanded="true" signature="116:117" ph="..." />
-            <marker date="1568645439583" expanded="true" signature="116:305" ph="..." />
-            <marker date="1568645439583" expanded="true" signature="116:310" ph="..." />
+            <marker date="1569051010724" expanded="true" signature="116:117" ph="..." />
+            <marker date="1569051010724" expanded="true" signature="116:305" ph="..." />
+            <marker date="1569051010724" expanded="true" signature="116:310" ph="..." />
           </folding>
         </state>
       </provider>
@@ -447,9 +449,9 @@
         <state relative-caret-position="66">
           <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
           <folding>
-            <marker date="1569046737027" expanded="true" signature="192:198" ph="..." />
-            <marker date="1569046737027" expanded="true" signature="214:307" ph="..." />
-            <marker date="1569046737027" expanded="true" signature="326:391" ph="..." />
+            <marker date="1569051010905" expanded="true" signature="192:198" ph="..." />
+            <marker date="1569051010905" expanded="true" signature="214:307" ph="..." />
+            <marker date="1569051010905" expanded="true" signature="326:391" ph="..." />
           </folding>
         </state>
       </provider>
@@ -459,11 +461,22 @@
         <state relative-caret-position="572">
           <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
           <folding>
-            <marker date="1568639045137" expanded="true" signature="207:213" ph="..." />
-            <marker date="1568639045137" expanded="true" signature="316:644" ph="..." />
-            <marker date="1568639045137" expanded="true" signature="501:644" ph="..." />
-            <marker date="1568639045137" expanded="true" signature="664:709" ph="..." />
+            <marker date="1569051010698" expanded="true" signature="207:213" ph="..." />
+            <marker date="1569051010698" expanded="true" signature="316:644" ph="..." />
+            <marker date="1569051010698" expanded="true" signature="501:644" ph="..." />
+            <marker date="1569051010698" expanded="true" signature="664:709" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
