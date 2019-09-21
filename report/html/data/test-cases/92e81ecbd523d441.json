@@ -1,0 +1,61 @@
+{
+  "uid" : "92e81ecbd523d441",
+  "name" : "test_search[search_test_001-你好]",
+  "fullName" : "scripts.test_search.TestSearch#test_search",
+  "historyId" : "9fa6a8efde11188dbd177f152a15d710",
+  "time" : {
+    "start" : 1568648586433,
+    "stop" : 1568648591014,
+    "duration" : 4581
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_search"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSearch"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-9UM5L4G"
+  }, {
+    "name" : "thread",
+    "value" : "3956-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "input_text",
+    "value" : "'你好'"
+  }, {
+    "name" : "test_id",
+    "value" : "'search_test_001'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92e81ecbd523d441.json",
+  "parameterValues" : [ "'你好'", "'search_test_001'" ]
+}
