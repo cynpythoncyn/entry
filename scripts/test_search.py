@@ -22,6 +22,7 @@ class TestSearch():
         self.search_page.click_image()
         self.search_page.input_search_text(input_text)
         self.search_page.click_back()
+        assert 0
 
     @pytest.mark.parametrize("test_id,input_text",ReadData("search_data.yaml").return_search_data("test_search1", "search_002"))
     def test_search1(self, test_id, input_text):
